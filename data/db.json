@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Blog 1 ",
+      "body": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visuale.",
+      "author": "Eren",
+      "id": 1
+    },
+    {
+      "title": "Hello Blog 2",
+      "body": "In publishing and graphic design, Lorem ipsum is a pt commonly used to .",
+      "author": "Hyak",
+      "id": 2
+    },
+    {
+      "title": "Blog 69",
+      "body": "In publishing and graphic design, Lorem ipsum is a nt or a typeface ",
+      "author": "Eren",
+      "id": 3
+    }
+  ]
+}
